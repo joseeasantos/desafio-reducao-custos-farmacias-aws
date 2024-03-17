@@ -19,6 +19,8 @@ Etapa 1:
    
 Conforme informações da própria [AWS](http://aws.amazon.com/pt/dynamodb/), sua performance fica abaixo de 10 milissegundos. Oferece segurança integrada, backups contínuos, replicação multiregional automatizada, armazenamento em cache na memória e ferramentas de importação/exportação de dados. 
   ![Ilustração DynamoDB](https://d1.awsstatic.com/product-page-diagram_Amazon-DynamoDBa.1f8742c44147f1aed11719df4a14ccdb0b13d9a3.png)
+  *Fonte: AWS*
+
 
 Etapa 2: 
 - AWS S3 Glacier
@@ -26,6 +28,8 @@ Etapa 2:
 - Com o Amazon S3 Glacier será possível o armazenamento de arquivos de diversas fontes de forma rápida, acessível 24/7 a partir de qualquer lugar e com total segurança. O custo pelo uso da ferramenta é quase zero.
   
 ![AWS Bucket S3 Glacier](https://d1.awsstatic.com/reInvent/re21-pdp-tier1/s3/s3-glacier-overview.0d570958d5161d19059c7dee00865500c1470256.png)
+*Fonte: AWS*
+
 
 Etapa 3: 
 - AWS EC2
